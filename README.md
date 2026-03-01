@@ -11,4 +11,12 @@ The game is managed by `BrickerGameManager` and uses a **strategy pattern** to a
   - **Extra paddle**
   - **Exploding bricks (affects neighbors)**
   - **Falling heart (gain a life if caught)** 
-  - **Double strategy** (combines 2 strategies, sometimes 3) 
+  - **Double strategy** (combines 2 strategies, sometimes 3)
+
+ ## How to Run
+1. Clone this repository.
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Ensure the **DanoGameLab (danogl)** library is correctly linked in your project dependencies.
+4. Run the `main` method located in `bricker.main.BrickerGameManager`.
+
+
